@@ -3,8 +3,6 @@ layout: recipe
 title: Souvlakia
 ---
 
-<h1>Souvlakia</h1>
-
 <section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">

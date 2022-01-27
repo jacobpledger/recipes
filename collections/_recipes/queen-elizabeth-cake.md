@@ -3,8 +3,6 @@ layout: recipe
 title: Queen Elizabeth Cake
 ---
 
-# Queen Elizabeth Cake
-
 <section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">

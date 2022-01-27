@@ -3,8 +3,6 @@ layout: recipe
 title: Fish Chowder
 ---
 
-<h1>Fish Chowder</h1>
-
 <section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">

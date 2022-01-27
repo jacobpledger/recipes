@@ -35,6 +35,7 @@ title: Pizza Dough
 
 <section class="notes">
     <h2>Notes</h2>
-    <ul>
+    <ul class="notes-list">
         <li>Bake actual pizza 475℉-500℉ for 10-12 minutes on middle rack. Be sure to pre-heat the stone.</li>
     </ul>
+</section>

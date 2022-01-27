@@ -1,8 +1,7 @@
 ---
 layout: recipe
+title: Quesadillas
 ---
-
-<h1>Quesadillas</h1>
 
 <section class="ingredients">
 <h2></h2>

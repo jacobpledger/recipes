@@ -3,8 +3,6 @@ layout: recipe
 title: Red Lentil Nuggets
 ---
 
-<h1>Red Lentil Nuggets</h1>
-
 <section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">

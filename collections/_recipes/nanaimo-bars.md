@@ -16,7 +16,6 @@ title: Nanaimo Bars
         <li><label><input type="checkbox">1 tsp / 5mL vanilla</label></li>
         <li><label><input type="checkbox">1 egg</label></li>
     </ul>
-
     <h3>Filling:</h3>
     <ul class="ingredient-list">
     <li><label><input type="checkbox">1/4 Cup / 50mL softened butter</label></li>

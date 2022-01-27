@@ -1,8 +1,7 @@
 ---
 layout: recipe
+title: Maple Salad Dressing
 ---
-
-# Maple Salad Dressing
 
 <section class="ingredients">
 <h2>Ingredients</h2>

@@ -1,5 +1,10 @@
+---
+title: Instant Pot Rice and Beans
+layout: recipe
+published: false
+---
 
-Instant Pot Rice and Beans
+
 Makes a stupidly large amount, can freeze for later.
 
 

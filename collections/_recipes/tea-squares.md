@@ -29,5 +29,7 @@ title: Lynn's Tea Squares (Ethel Merrton Squares)
 
 <section class="notes">
     <h2>Notes</h2>
-    <li>You can add 1/4 cup raisins and / or chocolate chips</li>
+    <ul class="notes-list">
+        <li>You can add 1/4 cup raisins and / or chocolate chips</li>
+    </ul>
 </section>

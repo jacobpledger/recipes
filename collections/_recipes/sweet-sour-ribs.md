@@ -1,8 +1,7 @@
 ---
 layout: recipe
+title: Sweet & Sour Ribs
 ---
-
-<h1>Sweet and Sour Ribs</h1>
 
 <section class="ingredients">
 <h2>Ingredients</h2>
