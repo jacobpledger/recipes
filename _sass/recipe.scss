@@ -11,6 +11,9 @@
     padding: $list-padding
   }
 }
+.notes-list {
+  list-style: circle;
+}
 .recipe-list {
   ul {
     list-style: none;
